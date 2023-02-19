@@ -1,4 +1,12 @@
 ### Hi there 👋
+#### About me
+I'm a new programmer and am currently learning data science. I recently finished a bootcamp at HyperionDev where I learnt:
+- Python and SQL
+- Object-oriented programming
+- Data manipulation, visualisation, and analysis
+- Machine learning
+
+I am currently trying to land a role in the data science field using my new-learned skills and passion in data science.
 
 <!--
 **MingHuanGit/MingHuanGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
