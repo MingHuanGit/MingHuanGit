@@ -6,7 +6,7 @@ I'm a new programmer and am currently learning data science. I recently finished
 - Data manipulation, visualisation, and analysis
 - Machine learning
 
-I am currently trying to land a role in the data science field using my new-learned skills and passion in data science.
+I am currently a data analyst trainee at Digital Futures, where I am sharpening my coding, data analysis, and machine learning skills to become a proficient data analyst.
 
 <!--
 **MingHuanGit/MingHuanGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
